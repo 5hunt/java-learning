@@ -1,11 +1,11 @@
-package com.shunt.learning.phase0.week1.arrays;
+package com.shunt.learning.phase0.week1.strings;
 
 /**
  * Task 4: Count character frequency in string (English letters only).
  * Approach: Fixed-size array for 26 letters (a-z) instead of Map.
  * Why array? For fixed small domains (alphabet), array is faster and simpler than HashMap.
  */
-public class Task4CharFrequency {
+public class Task1CharFrequency {
 
     /**
      * Counts frequency of English letters (a-z) in the input string.
