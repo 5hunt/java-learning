@@ -1,10 +1,10 @@
-package com.shunt.learning.phase0.week1.arrays;
+package com.shunt.learning.phase0.week1.strings;
 
 /**
  * Task 5: Check if string is palindrome (ignoring non-alphanumeric chars, case-insensitive).
  * Approach: Two pointers with in-place filtering (O(1) extra space).
  */
-public class Task5IsPalindrome {
+public class Task2IsPalindrome {
 
     /**
      * Checks whether the input string is a palindrome.
